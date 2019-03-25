@@ -2,6 +2,12 @@
 
 Trying to resolve issue to import the TailwindCSS config into a component in Vuepress.
 
+## Local dev
+
+Clone repo and run `yarn dev`
+
+## Issue
+
 When using `const tailwind = require("./../../tailwind.config")` and trying to use `tailwind` am getting the error:
 
 ```
